@@ -78,6 +78,12 @@ Awarded Certificate of Merit by Quant Club, IIT Kharagpur
 
 Practical exposure to quantitative finance workflows
 
+
+## Execution Environment
+
+This project was developed and executed using **Google Colab**, leveraging its Python environment and data analysis ecosystem.  
+The notebook has been uploaded here for reproducibility and ease of review.
+
 Experience working with real-world financial time series data
 
 Understanding of backtesting pitfalls and evaluation metrics
