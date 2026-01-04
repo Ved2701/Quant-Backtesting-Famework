@@ -1,12 +1,12 @@
 # Quant-Backtesting-Famework
 Python-based framework to backtest quantitative trading strategies on historical market data
 
-📈 Backtesting Quantitative Trading Strategies
+# Backtesting Quantitative Trading Strategies
 
 This repository contains a Python-based backtesting framework developed as part of the Summer of Quant 2025 program conducted by the Quant Club, IIT Kharagpur.
 The project evaluates rule-based quantitative trading strategies using historical market data and standard performance metrics.
 
-🧠 Project Overview
+# Project Overview
 
 The goal of this project was to:
 
@@ -18,7 +18,7 @@ Analyze risk-adjusted performance using real financial data
 
 The framework simulates end-to-end portfolio behavior, including signal generation, trade execution logic, and performance evaluation.
 
-📊 Strategies Implemented
+# Strategies Implemented
 
 Moving Average Crossover Strategy
 
@@ -26,7 +26,7 @@ MACD-based Trading Strategy
 
 Strategies were tested on multiple equities using 5+ years of historical price data.
 
-📈 Performance Metrics
+# Performance Metrics
 
 Each strategy was evaluated using:
 
@@ -34,13 +34,11 @@ Cumulative returns
 
 Volatility
 
-Maximum drawdown
-
 Sharpe ratio
 
 Comparative analysis was used to assess risk-adjusted performance across strategies.
 
-🧪 Methodology
+# Methodology
 
 Download historical price data using yfinance
 
@@ -52,7 +50,7 @@ Compute performance and risk metrics
 
 Visualize equity curves and comparisons
 
-🛠️ Tech Stack
+# Tech Stack
 
 Language: Python
 
@@ -66,7 +64,7 @@ Matplotlib
 
 yfinance
 
-🏅 Recognition
+# Recognition
 
 Completed Elementary and Advanced modules of Summer of Quant 2025
 
@@ -74,7 +72,7 @@ Selected for Advanced Cohort after qualifying assessment
 
 Awarded Certificate of Merit by Quant Club, IIT Kharagpur
 
-📌 Learning Outcomes
+# Learning Outcomes
 
 Practical exposure to quantitative finance workflows
 
